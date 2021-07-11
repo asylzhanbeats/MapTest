@@ -1,0 +1,20 @@
+PODS:
+  - CodableGeoJSON (2.0.0):
+    - CodableJSON (~> 2.0)
+  - CodableJSON (2.0.0)
+
+DEPENDENCIES:
+  - CodableGeoJSON
+
+SPEC REPOS:
+  trunk:
+    - CodableGeoJSON
+    - CodableJSON
+
+SPEC CHECKSUMS:
+  CodableGeoJSON: 14cc11957f44ca494d1d9fda97b5113c3220e463
+  CodableJSON: 796728ece01b7f8db92bc2f5d84318b84e6975f9
+
+PODFILE CHECKSUM: db1dba9c04ca7d764eb15f33f2dc0fb20c100ae9
+
+COCOAPODS: 1.10.1
